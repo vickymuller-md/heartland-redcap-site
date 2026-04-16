@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+  --font-editorial: var(--font-editorial);
+  --font-mono-editorial: var(--font-mono-editorial);
+
+  --color-terminal: #faf6ee;
+  --color-terminal-deep: #f2ecde;
+  --color-panel: #ffffff;
+  --color-panel-hi: #efe9dd;
+  --color-grid: #e3dcd0;
+  --color-grid-hi: #c5bcac;
+  --color-cool: #0f2544;
+  --color-stone: #7a8593;
+  --color-signal: #2e6f5e;
+  --color-signal-deep: #1e4e41;
+  --color-alert: #ff6b55;
+  --color-alert-deep: #e04a35;
+  --color-critical: #d63a20;
+}
+
+:root {
+  --background: #faf6ee;
+  --foreground: #0f2544;
+}
+
+html,
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Refined scrollbar for the cream terminal palette */
+::selection {
+  background: rgba(255, 107, 85, 0.35);
+  color: #0f2544;
+}
