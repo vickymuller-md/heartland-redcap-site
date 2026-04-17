@@ -67,7 +67,7 @@ export default function RootLayout({
         mono.variable,
       )}
     >
-      <body className="min-h-screen bg-terminal font-editorial text-cool antialiased selection:bg-alert/40 selection:text-cool">
+      <body className="min-h-screen flex flex-col bg-terminal font-editorial text-cool antialiased selection:bg-alert/40 selection:text-cool">
         {children}
       </body>
     </html>
