@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Geist, Sora, Instrument_Serif } from "next/font/google";
+import "@heartland/ui/css/theme.css";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 
