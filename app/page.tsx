@@ -55,6 +55,16 @@ export default function Home() {
                 href: "https://github.com/vickymuller-md/heartland-redcap-site",
                 external: true,
               },
+              {
+                label: "Instrument source archive",
+                href: "https://archive.softwareheritage.org/swh:1:snp:f3ff79845487b0c6ff853b772f14364f74849687/",
+                external: true,
+              },
+              {
+                label: "Site source archive",
+                href: "https://archive.softwareheritage.org/swh:1:snp:2f218f728490dd924494bbac5eac44e3284d093a/",
+                external: true,
+              },
             ],
           },
         ]}

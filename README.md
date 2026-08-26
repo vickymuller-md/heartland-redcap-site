@@ -23,6 +23,12 @@ npm run dev
 
 Vercel — linked to `rodrigo-costas-projects-425a8cf0` team. Custom domain `redcap.heartlandprotocol.org` managed via Cloudflare DNS.
 
+## Software preservation
+
+Software Heritage snapshot (archived 2026-08-25): [`swh:1:snp:2f218f728490dd924494bbac5eac44e3284d093a`](https://archive.softwareheritage.org/swh:1:snp:2f218f728490dd924494bbac5eac44e3284d093a/)
+
+This persistent SWHID identifies the repository snapshot captured on that date; archival does not imply endorsement or validation.
+
 ## License
 
 MIT. Copy for this site © 2026 Vicky Muller Ferreira.
