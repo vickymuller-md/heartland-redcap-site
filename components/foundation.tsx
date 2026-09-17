@@ -6,21 +6,21 @@ const citations = [
     title:
       "Ferreira VM. HEARTLAND Protocol: A Tiered Clinical Implementation Toolkit.",
     venue: "Cureus · 2026",
-    href: "https://doi.org/10.5281/zenodo.18566403",
+    href: "https://doi.org/10.5281/zenodo.19101219",
     note: "Authoritative source for Table 1 (risk score) and Module 4 (GDMT).",
   },
   {
     label: "Risk score",
     title: "Weighted 0-18 points across ten variables, three tiers.",
     venue: "Protocol v3.3 Table 1",
-    href: "https://doi.org/10.5281/zenodo.18566403",
+    href: "https://doi.org/10.5281/zenodo.19101219",
     note: "Pragmatic heuristic — not yet formally validated.",
   },
   {
     label: "GDMT",
     title: "Foundational therapies for HFrEF and HFpEF-specific agents.",
     venue: "Protocol v3.3 Module 4",
-    href: "https://doi.org/10.5281/zenodo.18566403",
+    href: "https://doi.org/10.5281/zenodo.19101219",
     note: "Target doses, safety gates, and Tier 1-3 initiation strategies.",
   },
 ];

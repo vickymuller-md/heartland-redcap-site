@@ -38,7 +38,7 @@ export function Hero() {
                 </span>
               </Link>
               <Link
-                href="https://doi.org/10.5281/zenodo.18566403"
+                href="https://doi.org/10.5281/zenodo.19101219"
                 className="group inline-flex items-center gap-2 font-editorial text-[15px] font-medium text-cool/85 transition-colors hover:text-alert"
               >
                 Read the Protocol

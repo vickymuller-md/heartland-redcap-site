@@ -39,7 +39,7 @@ export function Colophon() {
               </li>
               <li>
                 <Link
-                  href="https://doi.org/10.5281/zenodo.18566403"
+                  href="https://doi.org/10.5281/zenodo.19101219"
                   className="text-cool transition-colors hover:text-alert"
                 >
                   Protocol (Zenodo)
@@ -50,7 +50,7 @@ export function Colophon() {
                   href="https://app.heartlandprotocol.org"
                   className="text-cool transition-colors hover:text-alert"
                 >
-                  Clinical decision app
+                  Clinical implementation companion
                 </Link>
               </li>
             </ul>
