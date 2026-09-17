@@ -5,7 +5,7 @@ const citations = [
     label: "Protocol v3.3",
     title:
       "Ferreira VM. HEARTLAND Protocol: A Tiered Clinical Implementation Toolkit.",
-    venue: "Cureus · 2026",
+    venue: "Zenodo · Implementation Toolkit V3.3",
     href: "https://doi.org/10.5281/zenodo.19101219",
     note: "Authoritative source for Table 1 (risk score) and Module 4 (GDMT).",
   },
